@@ -3,6 +3,10 @@
 
 # Logseq MCP Tools
 
+<a href="https://glama.ai/mcp/servers/@mikeysrecipes/logseq-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@mikeysrecipes/logseq-mcp/badge" alt="Logseq Tools MCP server" />
+</a>
+
 This project provides a set of Model Context Protocol (MCP) tools that enable AI agents to interact with your local Logseq instance.
 
 ## Installation
